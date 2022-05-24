@@ -1,0 +1,6 @@
+[package]
+name = "new_york"
+description = "Home of the dollar slice."
+version = "0.1.0"
+edition = "2021"
+
